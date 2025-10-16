@@ -2,9 +2,9 @@
 Data from the publications of the International Spine Biomechanics Consortium
 
 ## Citation
-Preprint #1: A Multi-Laboratory Study Towards Standardizing Spine Testing: Evaluating Reproducibility and Temporal Changes in Lumbar Spine Surrogates, 2025, [DOI](https://github.com/siril-teja/ISBC.git)
+**Preprint #1**: A Multi-Laboratory Study Towards Standardizing Spine Testing: Evaluating Reproducibility and Temporal Changes in Lumbar Spine Surrogates, 2025
 
-Preprint #2: A Multi-Laboratory Study Towards Standardizing Spine Testing: Evaluating the Impact of Protocol and Testing Environment on Spine Biomechanics, 2025, [DOI](https://github.com/siril-teja/ISBC.git).
+**Preprint #2**: A Multi-Laboratory Study Towards Standardizing Spine Testing: Evaluating the Impact of Protocol and Testing Environment on Spine Biomechanics, 2025
 
 ## License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
